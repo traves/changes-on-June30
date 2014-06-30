@@ -828,6 +828,50 @@ the $X_{\alpha_i}$ can be interpreted as coming from different flags,
 in general position with respect to each other).
 \end{remark}
 
+
+\begin{theorem} \label{countdpencil} If $\A$ is a $d$-coned generic
+  arrangement of $k$ hyperplanes in $\P^n$, then the number of pencils
+  combinatorially equivalent to $\A$ that pass through $D=(d+1)(n-d) +
+  k(n-d-1)$ points in general position is given by
+$$ \N_\A =  \frac{1}{k!} \sum_{\Gamma}
+\sigma^{s} \binom{k}{s_0,s_1,\ldots,s_{d+1}}
+\binom{D}{(n-(d+1))^{s_{0}},(n-d)^{s_{1}},\ldots,(n)^{s_{d+1}}}, $$
+where $$\Gamma = \{(s_0,\ldots,s_{d+1}) \in \NN^{d+2}: \sum_{i=0}^{d+1} is_i =
+(d+1)(n-d) = \dim \G(d,n),
+  \sum_{i=0}^{d+1} s_i = k\}$$ and $$\sigma^{s} = (\sigma_0)^{s_0}
+  (\sigma_1)^{s_1} (\sigma_{(1)^2})^{s_2} \cdots
+  (\sigma_{(1)^{d+1}})^{s_{d+1}},$$
+using the notation of Remark \ref{notation}. 
+\end{theorem}
+
+\begin{remark}
+  The result in Theorem \ref{countdpencil} takes a particularly nice
+  shape when $d=1$. In this case $\sigma^{s} = (\sigma_0)^{s_0}
+  (\sigma_1)^{s_1} (\sigma_{11})^{s_2}$ counts the number of lines
+  that are in $s_2$ general hyperplanes in $\P^n$ and meet $s_1$
+  general codimension-$2$ planes. Cutting down by the hyperplanes,
+  this is the number of lines in $\P^{n-s_2}$ that meet $s_1 =
+  2(n-1)-2s_2$ codimension-$2$ planes. This was one of the classical
+  problems studied by Schubert \cite{Schubert}, who showed that
+  $\sigma^s = C_{n-s_2}$, where $C_N = \frac{1}{N}\binom{2N-2}{N-1}$
+  defines the sequence of Catalan numbers (with the index shifted to
+  start at 1).
+\end{remark}
+
+\begin{example} 
+The number of $1$-coned generic arrangements of $9$ hyperplanes in $\P^5$ that go through $35$ points is 
+$$ \begin{array}{lll} N_\A & = & \frac{1}{9!} \left[
+  \binom{9}{5,0,4}\binom{35}{(3)^5(4)^0(5)^4} +
+  \binom{9}{4,2,3}\binom{35}{(3)^4(4)^2(5)^3} + 
+2\binom{9}{3,4,2}\binom{35}{(3)^3(4)^4(5)^2} +\right. \\
+& & \phantom{\frac{1}{9!} [[} \left. 5\binom{9}{2,6,1}\binom{35}{(3)^2(4)^6(5)^1} +  
+14\binom{9}{1,8,0}\binom{35}{(3)^1(4)^8(5)^0}  \right] \\
+& = & 148,467,792,706,702,950,173,442,750.
+\end{array} $$
+\end{example}
+
+
+
 \begin{proof}[Proof of Theorem \ref{countdpencil}]
 As a first step we determine the
 cohomology class $[Z] \in H^*(\G(d,n) \times \P^n, \Z)$, where $Z$ is
