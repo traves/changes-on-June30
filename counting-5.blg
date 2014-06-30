@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99c (TeX Live/MacPorts 2009_2)
+The top-level auxiliary file: counting-5.aux
+The style file: plain.bst
+Database file #1: counting.bib
+Warning--empty publisher in EH
+Warning--empty year in EH
+You've used 30 entries,
+            2118 wiz_defined-function locations,
+            726 strings with 8787 characters,
+and the built_in function-call counts, 9609 in all, are:
+= -- 1010
+> -- 273
+< -- 13
++ -- 119
+- -- 82
+* -- 649
+:= -- 1547
+add.period$ -- 100
+call.type$ -- 30
+change.case$ -- 125
+chr.to.int$ -- 0
+cite$ -- 32
+duplicate$ -- 399
+empty$ -- 844
+format.name$ -- 82
+if$ -- 2051
+int.to.chr$ -- 0
+int.to.str$ -- 30
+missing$ -- 33
+newline$ -- 157
+num.names$ -- 60
+pop$ -- 122
+preamble$ -- 2
+purify$ -- 101
+quote$ -- 0
+skip$ -- 255
+stack$ -- 0
+substring$ -- 795
+swap$ -- 89
+text.length$ -- 13
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 108
+warning$ -- 2
+while$ -- 106
+width$ -- 32
+write$ -- 348
+(There were 2 warnings)

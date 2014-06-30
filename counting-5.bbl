@@ -1,0 +1,183 @@
+\def\cprime{$'$}
+\begin{thebibliography}{10}
+
+\bibitem{Aluffi}
+Paolo Aluffi.
+\newblock The enumerative geometry of plane cubics. {I}. {S}mooth cubics.
+\newblock {\em Trans. Amer. Math. Soc.}, 317(2):501--539, 1990.
+
+\bibitem{Ardila}
+Federico Ardila.
+\newblock Computing the {T}utte polynomial of a hyperplane arrangement.
+\newblock {\em Pacific J. Math.}, 230(1):1--26, 2007.
+
+\bibitem{Carlini}
+Enrico Carlini.
+\newblock Codimension one decompositions and {C}how varieties.
+\newblock In {\em Projective varieties with unexpected properties}, pages
+  67--79. Walter de Gruyter GmbH \& Co. KG, Berlin, 2005.
+
+\bibitem{EH}
+David Eisenbud and Joe Harris.
+\newblock {\em 3264 and all that}.
+\newblock Available at
+  http://isites.harvard.edu/fs/docs/icb.topic720403.files/book.pdf.
+
+\bibitem{Rimanyi}
+L{\'a}szl{\'o}~M. Feh{\'e}r, Andr{\'a}s N{\'e}methi, and Rich{\'a}rd
+  Rim{\'a}nyi.
+\newblock Equivariant classes of matrix matroid varieties.
+\newblock {\em Comment. Math. Helv.}, 87(4):861--889, 2012.
+
+\bibitem{Fink-Speyer-12}
+Alex Fink and David~E. Speyer.
+\newblock {$K$}-classes for matroids and equivariant localization.
+\newblock {\em Duke Math. J.}, 161(14):2699--2723, 2012.
+
+\bibitem{Fulton}
+William Fulton.
+\newblock {\em Intersection theory}, volume~2 of {\em Ergebnisse der Mathematik
+  und ihrer Grenzgebiete (3) [Results in Mathematics and Related Areas (3)]}.
+\newblock Springer-Verlag, Berlin, 1984.
+
+\bibitem{GattoIMPA}
+Letterio Gatto.
+\newblock {\em Schubert calculus: an algebraic introduction}.
+\newblock Publica\c c\~oes Matem\'aticas do IMPA. [IMPA Mathematical
+  Publications]. Instituto Nacional de Matem\'atica Pura e Aplicada (IMPA), Rio
+  de Janeiro, 2005.
+\newblock 25${^{{}}{\rm{o}}}$ Col{\'o}quio Brasileiro de Matem{\'a}tica. [25th
+  Brazilian Mathematics Colloquium].
+
+\bibitem{GattoASC}
+Letterio Gatto.
+\newblock Schubert calculus via {H}asse-{S}chmidt derivations.
+\newblock {\em Asian J. Math.}, 9(3):315--321, 2005.
+
+\bibitem{HKT-06}
+Paul Hacking, Sean Keel, and Jenia Tevelev.
+\newblock Compactification of the moduli space of hyperplane arrangements.
+\newblock {\em J. Algebraic Geom.}, 15(4):657--680, 2006.
+
+\bibitem{Hatcher}
+Allen Hatcher.
+\newblock Vector bundles and {K}-theory.
+\newblock Available online at {\tt
+  http://www.math.cornell.edu/~hatcher/VBKT/VBpage.html}.
+
+\bibitem{Kapranov-93}
+Mikhail~M. Kapranov.
+\newblock Chow quotients of {G}rassmannians. {I}.
+\newblock In {\em I. {M}. {G}el\cprime fand {S}eminar}, volume~16 of {\em Adv.
+  Soviet Math.}, pages 29--110. Amer. Math. Soc., Providence, RI, 1993.
+
+\bibitem{Katz}
+Sheldon Katz.
+\newblock {\em Enumerative geometry and string theory}, volume~32 of {\em
+  Student Mathematical Library}.
+\newblock American Mathematical Society, Providence, RI, 2006.
+\newblock IAS/Park City Mathematical Subseries.
+
+\bibitem{Kleiman}
+Steven~L. Kleiman.
+\newblock The transversality of a general translate.
+\newblock {\em Compositio Math.}, 28:287--297, 1974.
+
+\bibitem{Kleiman15}
+Steven~L. Kleiman.
+\newblock Problem 15: rigorous foundation of {S}chubert's enumerative calculus.
+\newblock In {\em Mathematical developments arising from {H}ilbert problems
+  ({P}roc. {S}ympos. {P}ure {M}ath., {N}orthern {I}llinois {U}niv., {D}e
+  {K}alb, {I}ll., 1974)}, pages 445--482. Proc. Sympos. Pure Math., Vol.
+  XXVIII. Amer. Math. Soc., Providence, R. I., 1976.
+
+\bibitem{KSp}
+Steven~L. Kleiman and Robert Speiser.
+\newblock Enumerative geometry of nonsingular plane cubics.
+\newblock In {\em Algebraic geometry: {S}undance 1988}, volume 116 of {\em
+  Contemp. Math.}, pages 85--113. Amer. Math. Soc., Providence, RI, 1991.
+
+\bibitem{KM-94}
+Maxim Kontsevich and Yuri Manin.
+\newblock Gromov-{W}itten classes, quantum cohomology, and enumerative
+  geometry.
+\newblock {\em Comm. Math. Phys.}, 164(3):525--562, 1994.
+
+\bibitem{Mnev}
+Nikolai~E. Mn{\"e}v.
+\newblock The universality theorems on the classification problem of
+  configuration varieties and convex polytopes varieties.
+\newblock In {\em Topology and geometry---{R}ohlin {S}eminar}, volume 1346 of
+  {\em Lecture Notes in Math.}, pages 527--543. Springer, Berlin, 1988.
+
+\bibitem{OT}
+Peter Orlik and Hiroaki Terao.
+\newblock {\em Arrangements of hyperplanes}, volume 300 of {\em Grundlehren der
+  Mathematischen Wissenschaften [Fundamental Principles of Mathematical
+  Sciences]}.
+\newblock Springer-Verlag, Berlin, 1992.
+
+\bibitem{Paul}
+Thomas Paul.
+\newblock The enumerative geometry of hyperplane arrangements.
+\newblock Trident Project, U.S. Naval Academy, 2012.
+
+\bibitem{Ren}
+Qingchun Ren, J\"{u}rgen Richter-Gebert, and Bernd Sturmfels.
+\newblock {C}ayley-{B}acharach {F}ormulas.
+\newblock Preprint: ArXiv:1405.6438.
+
+\bibitem{Schubert}
+Hermann Schubert.
+\newblock Die {$n$}-dimensionalen {V}erallgemeinerungen der fundamentalen
+  {A}nzahlen unseres {R}aums.
+\newblock {\em Math. Ann.}, 26(1):26--51, 1886.
+
+\bibitem{Sokal}
+Alan~D. Sokal.
+\newblock The multivariate {T}utte polynomial (alias {P}otts model) for graphs
+  and matroids.
+\newblock In {\em Surveys in combinatorics 2005}, volume 327 of {\em London
+  Math. Soc. Lecture Note Ser.}, pages 173--226. Cambridge Univ. Press,
+  Cambridge, 2005.
+
+\bibitem{Speyer-09}
+David~E. Speyer.
+\newblock A matroid invariant via the {$K$}-theory of the {G}rassmannian.
+\newblock {\em Adv. Math.}, 221(3):882--913, 2009.
+
+\bibitem{Terao-02}
+Hiroaki Terao.
+\newblock Moduli space of combinatorially equivalent arrangements of
+  hyperplanes and logarithmic {G}auss-{M}anin connections.
+\newblock {\em Topology Appl.}, 118(1-2):255--274, 2002.
+\newblock Arrangements in Boston: a Conference on Hyperplane Arrangements
+  (1999).
+
+\bibitem{Vakil}
+Ravi Vakil.
+\newblock The characteristic numbers of quartic plane curves.
+\newblock {\em Canad. J. Math.}, 51(5):1089--1120, 1999.
+
+\bibitem{VakilMurphy}
+Ravi Vakil.
+\newblock Murphy's law in algebraic geometry: badly-behaved deformation spaces.
+\newblock {\em Invent. Math.}, 164(3):569--590, 2006.
+
+\bibitem{Yuz-93}
+Sergey Yuzvinsky.
+\newblock Free and locally free arrangements with a given intersection lattice.
+\newblock {\em Proc. Amer. Math. Soc.}, 118(3):745--752, 1993.
+
+\bibitem{Zeuthen}
+Hieronymous~G. Zeuthen.
+\newblock Almindelige egenskaber ved systemer af plane kurver.
+\newblock {\em Kongelige Danske Vidensk- abernes Selskabs Skrifter —
+  Naturvidenskabelig og Mathematisk}, 1873.
+
+\bibitem{Zeuthenbook}
+Hieronymous~G. Zeuthen.
+\newblock {\em Lehrbuch der abz\"ahlenden Methoden der Geometrie}.
+\newblock Teubner, Leipzig, 1914.
+
+\end{thebibliography}
